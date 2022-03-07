@@ -2,10 +2,18 @@
     border-radius: 100%;
 }
 .name{
-    color: #3F72AF;
+    color: #112D4E;
+}
+.info{
+    background-color: #3F72AF;
+    color: #DBE2EF;
 }
 
 body{
     background-color: #F9F7F7;
 }
 
+a{
+    text-decoration: none;
+    color: #DBE2EF;
+}
