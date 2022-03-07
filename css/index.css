@@ -1,10 +1,11 @@
 .profilepic{
     border-radius: 100%;
 }
+.name{
+    color: #3F72AF;
+}
+
 body{
     background-color: #F9F7F7;
 }
 
-.name{
-    color: #3F72AF;
-}
