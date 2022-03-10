@@ -1,19 +1,29 @@
-.profilepic{
-    border-radius: 100%;
-}
-.name{
-    color: #112D4E;
-}
-.info{
-    background-color: #3F72AF;
-    color: #DBE2EF;
-}
-
 body{
-    background-color: #F9F7F7;
+    background-color: #F7F7F7;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
-
+h1{
+    margin: 0px;
+    color: #0F4C75;
+    font-size: 50px;
+}
+h2{
+    margin: 0px;
+}
+h4{
+    display: inline-block;
+}
 a{
     text-decoration: none;
-    color: #DBE2EF;
+    color: #0F4C75;
+}
+.glasses{
+    margin-top: 2%;
+}
+.name_glasses{
+    margin-top: 15%;
+}
+.link{
+    margin: 2% 1% 0% 1%;
 }
