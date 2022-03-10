@@ -1,3 +1,15 @@
+
+body{
+    background-color: #F9F7F7;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #DBE2EF;
+}
+
 .profilepic{
     border-radius: 100%;
 }
@@ -7,13 +19,26 @@
 .info{
     background-color: #3F72AF;
     color: #DBE2EF;
+    text-align: left;
+}
+.info-row{
+    width: 50%;
+    margin: 5% auto 10% auto;
+    text-align: left;
 }
 
-body{
-    background-color: #F9F7F7;
+.personal-profile-pic{
+    width: 25%;
+    float: left;
+    margin-right: 5%;
 }
-
-a{
-    text-decoration: none;
-    color: #DBE2EF;
+.pic-left{
+    width: 25%;
+    float: left;
+    margin-right: 5%;
+}
+.pic-right{
+    width: 25%;
+    float: right;
+    margin-right: 5%;
 }

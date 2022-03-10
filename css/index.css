@@ -18,6 +18,9 @@ a{
     text-decoration: none;
     color: #0F4C75;
 }
+a:hover{
+    color: #FC9918;
+}
 .glasses{
     margin-top: 2%;
 }
