@@ -2,29 +2,45 @@
 body{
     background-color: #F9F7F7;
     font-family: 'Open Sans', sans-serif;
-    text-align: center;
 }
 
 a{
     text-decoration: none;
     color: #DBE2EF;
 }
-
+.navbar{
+    background-color: #F9F7F7;
+    font-family: 'Open Sans', sans-serif;
+}
+.intro{
+    font-size: 300%;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
 .profilepic{
     border-radius: 100%;
 }
 .name{
     color: #112D4E;
 }
-.info{
-    background-color: #3F72AF;
-    color: #DBE2EF;
-    text-align: left;
+.title{
+    background-image: url(../image/back2.JPEG);
+    color: #F9F7F7;
+    padding: 20%;
+    text-align: center;
+}
+.profile{
+    background-color: #112D4E;
+    color: #F9F7F7;
+    padding: 2%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 .info-row{
     width: 50%;
-    margin: 5% auto 7% auto;
+    margin: 3% auto 6% auto;
     text-align: left;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .personal-profile-pic{
